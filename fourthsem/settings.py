@@ -126,3 +126,5 @@ STATICFILES_DIRS = [BASE_DIR,"static"]
 
 
 # example for the git commit
+
+# another git commit example
