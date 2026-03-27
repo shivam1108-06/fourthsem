@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -L -o \"C:/Users/DEEP/fourthsem/static/airpods.jpg\" \"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=400&hei=400&fmt=jpeg&qlt=90\")",
+      "Bash(curl -L -o \"C:/Users/DEEP/fourthsem/static/appletv.jpg\" \"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-tv-4k-hero-select-202210?wid=400&hei=400&fmt=jpeg&qlt=90\")"
+    ]
+  }
+}
